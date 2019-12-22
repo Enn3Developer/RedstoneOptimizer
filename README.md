@@ -1,3 +1,3 @@
 # RedstoneOptimizer
 
-Develop branch of the plugin
+Plugin to optimize redstone by introducing timer, range from player, etc...
