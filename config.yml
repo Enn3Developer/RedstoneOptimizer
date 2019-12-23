@@ -1,0 +1,5 @@
+messages:
+   command_help:
+      interchange: ->
+      help: Help page
+   wrong_command: Wrong command. Do /redopt help for a list of commands

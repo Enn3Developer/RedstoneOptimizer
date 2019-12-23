@@ -1,0 +1,21 @@
+name: RedstoneOptimizer
+description: Optimize redstone circuit with timer, range from player, etc...
+main: com.enn3developer.redstone.MainRedstoneOptimizer
+version: 0.1.1
+api-version: 1.14
+author: Enn3DevPlayer
+
+commands:
+   redopt:
+      description: An useless command
+      permission: redopt.help
+
+permissions:
+   redopt.help:
+      default: true
+   redopt.set:
+      default: true
+   redopt.activate:
+      default: true
+   redopt.deactivate:
+      default: true
